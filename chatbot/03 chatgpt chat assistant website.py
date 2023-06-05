@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 messages = [{"role": "system", "content": "You are a helping hand for the user"}]
 
