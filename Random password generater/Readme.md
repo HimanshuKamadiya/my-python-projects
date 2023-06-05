@@ -30,10 +30,6 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 - [@Himanshu Kamadiya](https://github.com/HimanshuKamadiya)
 
 
-## 🚀 About Me
-I'm a full stack developer...
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HimanshuKamadiya)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshukamadiya-45a942203/)
