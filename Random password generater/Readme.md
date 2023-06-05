@@ -14,7 +14,7 @@ This is a simple Python program that generates random passwords of a specified l
 5. Enter the desired length of the password when prompted.
 6. The program will generate a random password and display it on the console.
 7. Repeat steps 5 and 6 to generate more passwords.
-8. Enter `0` when prompted to exit the program.
+8. Enter `0` when prompted to exit the program
 ```
 
 
