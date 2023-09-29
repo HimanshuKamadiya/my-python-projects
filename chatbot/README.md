@@ -32,7 +32,7 @@ The following dependencies are required to run the chatbot:
 - Gradio (Python library)
 ## Authors
 
-- [@HimanshuKamadiya](https://github.com/GABBAR-AMIT)
+- [@HimanshuKamadiya](https://github.com/HimanshuKamadiya)
 
 
 ##  Contributing
@@ -44,6 +44,6 @@ If you'd like to contribute , please follow these steps:
 5. Submit a pull request to the main repository.
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-sahu7941//)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshukamadiya-45a942203/)
 
 
